@@ -12,10 +12,9 @@ Link to the preprint: https://www.biorxiv.org/content/10.1101/824151v1
 ## Files
 This repository contains the data, code, and analyses used in Harrington et al. 2019 "MEF2C hypofunction in neuronal and neuroimmune populations produces MEF2C haploinsufficiency syndrome behaviors in mice"
 
-Organization
-
-    1. DGE/ contains the codes and input data for analyises for the differential gene expression analysis (DGE).
-    
-    2. ENRICHMENTS/ contains the codes and input data for analyises for the enrichment analysis
-    
-    3. Databases/ contains the Database of DGE association with cell-type and neuropsychiatric disorders
+# Directories
+| directory | contents | 
+| --------- | -------- | 
+| [`DGE`](DGE/) | Codes and Inputs/Outputs for DGE analysis |
+| [`ENRICHMENTS`](ENRICHMENTS/) | Codes and Inputs/Outputs for enrichment analysis |
+| [`Databases`](Databases/) | Databased of DGE association with cell-type and neuropsychiatric disorders | 
