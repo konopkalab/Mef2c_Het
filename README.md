@@ -7,7 +7,7 @@ This repository contains analysis code for the Mef2c Het project carried out by 
 
 If you use anything in this repository please cite the following publication:
 
-Link to the preprint: https://www.biorxiv.org/content/10.1101/824151v1
+Link to the manuscript: https://www.sciencedirect.com/science/article/pii/S0006322320313822
 
 ## Files
 This repository contains the data, code, and analyses used in Harrington et al. 2019 "MEF2C hypofunction in neuronal and neuroimmune populations produces MEF2C haploinsufficiency syndrome behaviors in mice"
